@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.radiobuttoneg"
+    namespace = "com.example.HelloWorld"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.radiobuttoneg"
+        applicationId = "com.example.HelloWorld"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
