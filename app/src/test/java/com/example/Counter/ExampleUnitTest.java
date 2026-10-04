@@ -1,4 +1,4 @@
-package com.example.HelloWorld;
+package com.example.Counter;
 
 import org.junit.Test;
 
